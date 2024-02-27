@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+*
+{
+    font-family: Open Sans;
+}
+
+#logo
+{
+    margin-left: 10%;
+}
+
+#navbar
+{
+    margin-bottom: 0.4%;
+    display: flex;
+}
+
+.lien-navbar
+{
+    margin-top: 1.5%;
+    margin-right: 3% !important;
+}
+
+#section-sun
+{
+    background-image: url("images/bg-blur-3.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    padding-top: 1%;
+    padding-bottom: 5%;
+    color: white;
+}
+
+#sun
+{
+    font-size: 600%;
+    font-weight: 10%;
+    margin-top: 5%;
+    height: 1000%;
+    margin-bottom: -1% !important;
+}
+
+#section-sun p
+{
+    margin-left: 23%;
+    margin-bottom: -0.5%;
+}
+
+#images
+{
+    margin-top: 3%;
+    display: flex;
+    max-width: 100%;
+    padding: 0 12.5% 0 15%;
+}
+
+.image-milieu
+{
+    margin: 0 5% 0 0;
+    width: 20%;
+}
+
+#texte-milieu
+{
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+#huit-mille
+{
+    font-size: 200%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+#données
+{
+    margin-top: -1.5%;
+    margin-bottom: 3.5%;
+    display: flex;
+    /* text-align: center; */
+    padding-left: 11.5%;
+}
+
+.bloc-nombres
+{
+    margin-left: 10%;
+}
+
+.nombres
+{
+    font-size: 280%;
+    margin-bottom: -5%;
+}
+
+#nb1
+{
+    color: #12c7da;
+}
+
+#nb2
+{
+    color: #45d0b6;
+}
+
+#nb3
+{
+    color: #60df8e;
+}
+
+#nb4
+{
+    color: #a1f466;
+}
+
+.latin
+{
+    color: grey;
+    margin-top: -0.5%;
+}
+
+#bouton
+{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2%;
+}
+
+button
+{
+    padding: 1%;
+    background-color: #04d489;
+    color: white;
+    border: none;
+    border-radius: 50px;
+}
+
+#haut-footer
+{
+    display: flex;
+    background-image: url("images/bg-footer.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    padding: 1.5% 0 3%;
+    color: white;
+    font-size: 75%;
+}
+
+.references
+{
+    margin-left: 15%;
+}
+
+.sous-titre
+{
+    font-size: 150% !important;
+}
+
+#copyright
+{
+    color: grey;
+    margin-left: 14%;
+    font-size: smaller;
+}
