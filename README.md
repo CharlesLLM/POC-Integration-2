@@ -1,2 +1,2 @@
 # POC-Integration-2
-POC de vérification des acquis front-end en début de 2e année de BTS SIO.
+POC for verifying front-end knowledge at the start of the 2nd year of BTS SIO.
